@@ -1,0 +1,3 @@
+step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest
+112,TRANSFER,42418.85,C2070012456,42418.85,0.0,C849021900,0.0,0.0
+112,CASH_OUT,42418.85,C1471675468,42418.85,0.0,C2104637765,0.0,42418.85
